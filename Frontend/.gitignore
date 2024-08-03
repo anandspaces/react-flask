@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # User Data
-dummy.js
+src/dummy.js
